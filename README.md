@@ -1,8 +1,8 @@
 # Bonjour, je suis Hamza LAKRAD
 
-**Élève ingénieur à l’EMSI · Développement Full Stack**
+**Futur ingénieur à l’EMSI · Développement Full Stack**
 
-Futur ingénieur en Informatique et Réseaux, option Développement, je conçois des applications web en travaillant sur le frontend et le backend. Je recherche un **stage / PFE en développement logiciel et web**.
+Futur ingénieur en Informatique et Réseaux, option Développement, je conçois des applications web en travaillant sur le frontend et le backend.
 
 📍 Témara – Rabat, Maroc
 
